@@ -1,0 +1,21 @@
+name,slug,github_username,bio,gender
+John Smith,john-smith,githubuser1,John is a passionate web developer who loves to contribute to open source,male
+Jane Doe,jane-doe,githubuser2,Jane is a front-end enthusiast who loves React and CSS, female
+Alice Green,alice-green,githubuser3,Alice is a full-stack developer with a love for JavaScript and Python,female
+Bob Johnson,bob-johnson,githubuser4,Bob is a backend developer working with Node.js and databases,male
+Charlie White,charlie-white,githubuser5,Charlie is a cloud computing engineer with experience in AWS,male
+Diana Brown,diana-brown,githubuser6,Diana is a UI/UX designer passionate about web design trends,female
+Edward Black,edward-black,githubuser7,Edward is a system administrator with expertise in Linux and network security,male
+Fay Evans,fay-evans,githubuser8,Fay is a front-end developer who enjoys creating beautiful user interfaces,female
+George Clark,george-clark,githubuser9,George is a mobile developer who creates iOS and Android applications,male
+Hannah Adams,hannah-adams,githubuser10,Hannah is a data scientist working with machine learning models,female
+Ian Lewis,ian-lewis,githubuser11,Ian is a JavaScript expert and loves to mentor other developers,male
+Julia King,julia-king,githubuser12,Julia is a product manager with a background in software engineering,female
+Kevin Scott,kevin-scott,githubuser13,Kevin is a game developer who creates exciting mobile games,male
+Laura Wright,laura-wright,githubuser14,Laura is a security expert focusing on web security and ethical hacking,female
+Mike Turner,mike-turner,githubuser15,Mike is a DevOps engineer with experience in automation and containerization,male
+Nina Harris,nina-harris,githubuser16,Nina is a digital marketer with a passion for growth hacking,female
+Oscar Martinez,oscar-martinez,githubuser17,Oscar is a cloud architect with expertise in Kubernetes and Docker,male
+Paul Wilson,paul-wilson,githubuser18,Paul is a software engineer specializing in AI and NLP,female
+Quincy Robinson,quincy-robinson,githubuser19,Quincy is a game designer with a passion for creating immersive worlds,male
+Rita Moore,rita-moore,githubuser20,Rita is a content creator who writes tutorials on web development,female
