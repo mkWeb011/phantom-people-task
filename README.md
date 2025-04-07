@@ -1,3 +1,21 @@
+GUIDANCE :
+
+
+The "phantom-poeple" folder contains full custom theme (Theme).
+1. -> Copy the entire folder in the WordPress installation wp-content/themes
+2. --> From the admin panel, go to Appearance / Themes and activate the "phantom-people" theme.
+3. --> Then, go to the admin panel again > Settings >> Permalinks and make sure "Post name" is selected as default, go save changes.
+4. --> Make sure both the browser and server cache on your WordPress installation are cleared.
+5. --> Finally, you can access the project/people directory on the "http://your-website-domain/people/
+6. --> You can access any single person/user by, for example, "http://your-website-domain/people/Jane Doe" etc.
+
+
+---------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
 Here is an overview of the files and their roles:
 
 people.csv: Data source for the profiles.
